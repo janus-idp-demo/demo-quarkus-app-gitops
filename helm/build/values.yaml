@@ -1,7 +1,7 @@
 app:
   name: demo-quarkus-app
   namespace: demo-quarkus-app-dev
-  cluster: .apps.cluster-rvngz.rvngz.sandbox568.opentlc.com
+  cluster: .apps.cluster-9k62f.9k62f.sandbox56.opentlc.com
 
 git:
   branch: main
