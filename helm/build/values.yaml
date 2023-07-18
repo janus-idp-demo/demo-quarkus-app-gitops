@@ -1,7 +1,7 @@
 app:
   name: demo-quarkus-app
   namespace: demo-quarkus-app-dev
-  cluster: .apps.cluster-9k62f.9k62f.sandbox56.opentlc.com
+  cluster: .apps.cluster-ckvl7.ckvl7.sandbox473.opentlc.com
 
 git:
   branch: main
@@ -13,3 +13,4 @@ image:
   host: image-registry.openshift-image-registry.svc:5000
   name: demo-quarkus-app
   tag: latest
+
